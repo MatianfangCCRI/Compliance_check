@@ -1,0 +1,5 @@
+{
+  "name": "ComplianceGuard AI",
+  "description": "An intelligent legal compliance assistant that analyzes screenshots against current regulations using Gemini 2.5 Flash and Google Search Grounding to identify inconsistencies or violations.",
+  "requestFramePermissions": []
+}
